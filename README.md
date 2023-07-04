@@ -1,0 +1,2 @@
+# Socket_Simulator
+这是一个包含socket客户端和服务端程序的项目，可以完成个人定制化ip消息的发送和接收
